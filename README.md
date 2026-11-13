@@ -2,5 +2,5 @@
 
 Privacy policy and terms of use.
 
-- https://dave000547.github.io/vehicle-tracker/privacy/
-- https://dave000547.github.io/vehicle-tracker/terms/
+- https://dave547.github.io/vehicle-tracker-pages/privacy/
+- https://dave547.github.io/vehicle-tracker-pages/terms/
